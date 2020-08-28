@@ -1,2 +1,7 @@
 Integrantes
-- ffff
+- SRM
+- GFDHNRYJ
+
+* Tareas
+ - [] gfghdfgnghngn
+ - [X] frgrnhd
